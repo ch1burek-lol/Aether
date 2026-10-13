@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="WaveX.vcxproj" Id="7d019f39-e5a0-4d74-84f3-794709cac550" />
+</Solution>
