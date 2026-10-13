@@ -1,7 +1,6 @@
 # ⚡ Aether DPI (formerly WaveX)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.3-0059FF?style=for-the-badge&logo=windows&logoColor=white" alt="Version 1.3">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-black?style=for-the-badge&logo=windows" alt="Platform">
   <img src="https://img.shields.io/badge/Language-C%2B%2B%20%2F%20WebView2-blue?style=for-the-badge&logo=c%2B%2B" alt="Language">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
